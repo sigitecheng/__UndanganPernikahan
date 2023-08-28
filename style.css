@@ -250,6 +250,9 @@ body {
 }
 .info {
   background-color: var(--hitam);
+  /* background-image: url(img/landingpage/informasiacara.jpg); */
+  width: 100%;
+  background: cover;
   padding-top: 6rem;
   padding-bottom: 8rem;
 }
